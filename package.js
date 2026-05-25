@@ -9,7 +9,7 @@ Package.describe({
 })
 
 Npm.depends({
-  mocha: '10.2.0'
+  mocha: '11.7.6'
 })
 
 Package.onUse(function (api) {
