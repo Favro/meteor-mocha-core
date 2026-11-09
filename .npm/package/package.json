@@ -1,0 +1,7 @@
+{
+  "name": "meteortesting-mocha-core",
+  "private": true,
+  "dependencies": {
+    "mocha": "11.7.6"
+  }
+}
